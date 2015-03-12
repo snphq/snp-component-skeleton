@@ -1,0 +1,23 @@
+{
+  "name": "snp-component-<component name>",
+  "version": "0.0.1",
+  "homepage": "https://github.com/snphq/<component git path>",
+  "authors": [
+    "Author name <authot email@saltpepper.ru>"
+  ],
+  "description": "<Component name> component for generator-sp",
+  "main": "dist/index.js",
+  "keywords": [
+    "generator-sp",
+    "component",
+    "backbone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
